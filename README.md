@@ -1,2 +1,4 @@
-[![just-tugsuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-tugsuu&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align = "center"> <img align="center" src="https://c.tenor.com/nVzmP7Th76IAAAAi/adventure-time-portal.gif"> </h2>
+ 
+## 👋 Hello, Welcome to Rin's homeland  
 
