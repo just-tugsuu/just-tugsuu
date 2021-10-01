@@ -2,7 +2,7 @@
  
 ## 👋 Hello, Welcome to Rin's homeland  
 
-<h2 align = "center"> <img src= "https://count.getloli.com/get/@:Rin?theme=rul34"> </h2>
+<h2 align = "center"> <img src= "https://count.getloli.com/get/@:Rin?theme=moebooru-h"> </h2>
 
 ## 📈 Github Stats 
 
