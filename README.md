@@ -1,6 +1,4 @@
 
-## 👋 Hello, Welcome to my profile 
-
 <h2 align = "center"> <img src= "https://count.getloli.com/get/@:Rin?theme=moebooru"> </h2>
 
 ## 📈 Github Stats 
