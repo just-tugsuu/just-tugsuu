@@ -1,6 +1,5 @@
-<h2 align = "center"> <img align="center" src="https://c.tenor.com/nVzmP7Th76IAAAAi/adventure-time-portal.gif"> </h2>
- 
-## 👋 Hello, Welcome to my homeland  
+
+## 👋 Hello, Welcome to my profile 
 
 <h2 align = "center"> <img src= "https://count.getloli.com/get/@:Rin?theme=moebooru"> </h2>
 
